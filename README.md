@@ -9,7 +9,7 @@
 <p align="left">
   My name is <strong>PHI</strong> and I'm a <strong>Chill Guy</strong><br><br>
   I'm a contract-based <strong>Software Developer</strong> currently working at a private company.<br>
-  I specialize in web development and am currently deepening my skills in <strong>backend development</strong>.<br><br>
+  I specialize in web development and am currently deepening my skills in <strong>Backend Development</strong>.<br><br>
   - 🌱 Currently learning: Golang, REST API design, and database optimization<br>
   - 💻 Focused on writing clean, maintainable backend code<br>
   - 📚 Always eager to explore better practices in software engineering
