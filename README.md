@@ -26,13 +26,13 @@
 <span clear="both"></span>
 
 <div align="left">
-  <a href="https://www.instagram.com/strio.ap/" target="_blank">
+  <a href="https://www.instagram.com/strio.ap/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="linkedin.com/in/satrio-adi-prakoso-phi" target="_blank">
+  <a href="linkedin.com/in/satrio-adi-prakoso-phi" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/phizura" target="_blank">
+  <a href="https://discordapp.com/users/phizura" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
@@ -48,31 +48,31 @@
 <span clear="both"></span>
 
 <div align="left">
-  <a href="https://laravel.com/" target="_blank">
+  <a href="https://laravel.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="laravel logo"  />
     <img width="12" />
   </a>
-  <a href="https://www.php.net/" target="_blank">
+  <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="php logo"  />
     <img width="12" />
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
+  <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
     <img width="12" />
   </a>
-  <a href="https://nodejs.org" target="_blank">
+  <a href="https://nodejs.org" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo"  />
     <img width="12" />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
+  <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
     <img width="12" />
   </a>
-  <a href="https://react.dev/" target="_blank">
+  <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo"  />
     <img width="12" />
   </a>
-  <a href="https://nextjs.org/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo"  />
   </a>
 </div>
