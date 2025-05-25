@@ -50,28 +50,28 @@
 <div align="left">
   <a href="https://laravel.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="laravel logo"  />
-    <img width="12" />
   </a>
+  <img width="12" />
   <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="php logo"  />
-    <img width="12" />
   </a>
+  <img width="12" />
   <a href="https://www.javascript.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
-    <img width="12" />
   </a>
+  <img width="12" />
   <a href="https://nodejs.org" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo"  />
-    <img width="12" />
   </a>
+  <img width="12" />
   <a href="https://expressjs.com/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
-    <img width="12" />
   </a>
+  <img width="12" />
   <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo"  />
-    <img width="12" />
   </a>
+  <img width="12" />
   <a href="https://nextjs.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="nextjs logo"  />
   </a>
