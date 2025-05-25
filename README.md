@@ -6,17 +6,24 @@
 
 ###
 
-<p align="left">My name is **PHI** and I'm a **Chill Guy**<br><br>I'm a contract-based **Software Developer** currently working at a private company.  <br>I specialize in web development and am currently deepening my skills in **backend development**.<br><br>-🌱 Currently learning: Golang, REST API design, and database optimization  <br>-💻 Focused on writing clean, maintainable backend code<br>-📚 Always eager to explore better practices in software engineering</p>
+<p align="left">
+  My name is <strong>PHI</strong> and I'm a <strong>Chill Guy</strong><br><br>
+  I'm a contract-based <strong>Software Developer</strong> currently working at a private company.<br>
+  I specialize in web development and am currently deepening my skills in <strong>backend development</strong>.<br><br>
+  - 🌱 Currently learning: Golang, REST API design, and database optimization<br>
+  - 💻 Focused on writing clean, maintainable backend code<br>
+  - 📚 Always eager to explore better practices in software engineering
+</p>
 
 ###
 
-<br clear="both">
+<span clear="both"></span>
 
 <h3 align="left">💻Socials:</h3>
 
 ###
 
-<br clear="both">
+<span clear="both"></span>
 
 <div align="left">
   <a href="https://www.instagram.com/strio.ap/" target="_blank">
@@ -32,13 +39,13 @@
 
 ###
 
-<br clear="both">
+<span clear="both"></span>
 
 <h3 align="left">💻Tech Stack:</h3>
 
 ###
 
-<br clear="both">
+<span clear="both"></span>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="laravel logo"  />
@@ -58,21 +65,21 @@
 
 ###
 
-<br clear="both">
+<span clear="both"></span>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
 ###
 
-<br clear="both">
+<span clear="both"></span>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=phizura&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
+<span clear="both"></span>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phizura/phizura/output/pacman-contribution-graph-dark.svg">
